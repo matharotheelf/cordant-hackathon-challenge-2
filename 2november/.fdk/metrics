@@ -1,0 +1,1 @@
+{"command":[{"timestamp":"1558609851452","command":"create","arguments":"[]"}],"version":[{"fdk_version":"5.0.3"}],"template":[{"timestamp":"1558609881545","value":"your_first_app"}],"product":[{"timestamp":"1558609881546","value":"freshservice"}],"os":[{"timestamp":"1558609881549","version":"darwin","architecure":"x64","type":"Darwin"}]}
