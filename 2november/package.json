@@ -1,0 +1,12 @@
+{
+  "name": "2november",
+  "version": "1.0.0",
+  "description": "Congratulations on creating your first app! Feel free to replace this text with your app's actual description.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
